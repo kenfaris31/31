@@ -1,7 +1,5 @@
 # KENNETH FARIS
 
----
-
 ## TECHNICAL EXPERIENCE
 
 * **Ticket Troubleshooting:** 4000 AI operational hours
