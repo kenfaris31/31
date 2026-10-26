@@ -1,10 +1,5 @@
 # KENNETH FARIS
 
-* **Email:** [kenfaris31@gmail.com](mailto:kenfaris31@gmail.com)
-* **GitHub:** [github.com/31](https://github.com/31)
-* **Phone:** 619-900-5401
-* **Resume:** 📄 [Download My Full Resume (PDF)](KenFarisResume.pdf)
-
 ---
 
 ## TECHNICAL EXPERIENCE
