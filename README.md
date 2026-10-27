@@ -3,7 +3,7 @@
 ## TECHNICAL EXPERIENCE
 
 * **Ticket Troubleshooting:** 4000 AI operational hours
-* **Log Parsing:** [Python regular expression scraper](./python)
+* **Log Parsing:** [Python regular expression scraper]
 * **Log Parsing:** [Java database menu](./java)
 * **Quality Assurance:** [Python scraper loads correct modules](./python)
 * **Quality Assurance:** [Java CLI menu performs every combo](./java)
