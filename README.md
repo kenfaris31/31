@@ -3,11 +3,11 @@
 ## TECHNICAL EXPERIENCE
 
 * **Ticket Troubleshooting:** 4000 AI operational hours
-* **Log Parsing:** [Python regular expression scraper]
-* **Log Parsing:** [Java database menu](./java)
-* **Quality Assurance:** [Python scraper loads correct modules](./python)
-* **Quality Assurance:** [Java CLI menu performs every combo](./java)
-* **QA:** [Oracle database conversion script creates DBA in multitenant](./oracle)
+* **Log Parsing:** Python regular expression scraper
+* **Log Parsing:** Java database menu
+* **Quality Assurance:** Python scraper loads correct modules
+* **Quality Assurance:** Java CLI menu performs every combo
+* **QA:** Oracle database script recreates DBA in multitenant
 
 ---
 
